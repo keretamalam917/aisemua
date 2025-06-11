@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kursus Data Analytics</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f4f6f8;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #1976d2;
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+    section {
+      max-width: 800px;
+      margin: auto;
+      padding: 40px 20px;
+      background: white;
+    }
+    .cta {
+      background: #43a047;
+      color: white;
+      padding: 15px 25px;
+      text-decoration: none;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Belajar Data Analytics & AI</h1>
+    <p>Tingkatkan skill digitalmu, cocok untuk pemula!</p>
+    <a href="https://wa.me/6281234567890" class="cta">Daftar Sekarang</a>
+  </header>
+
+  <section>
+    <h2>Apa yang akan kamu pelajari?</h2>
+    <ul>
+      <li>Dasar Python untuk Data Analysis</li>
+      <li>Visualisasi Data dengan Excel & Power BI</li>
+      <li>Pengenalan Machine Learning</li>
+      <li>E-sertifikat + Proyek akhir</li>
+    </ul>
+  </section>
+
+</body>
+</html>
